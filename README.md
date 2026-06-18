@@ -112,7 +112,7 @@ mvn spring-boot:run
 Backend URL:
 
 ```text
-http://localhost:8081
+http://localhost:8080
 ```
 
 ### Frontend Setup (React)
