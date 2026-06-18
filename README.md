@@ -168,19 +168,10 @@ CVV         : 123
 OTP         : 1221
 ```
 
----
 
-## 📸 Screenshots
 
-* Login Page
-* Home Page
-* Product Listing
-* Product Details
-* Shopping Cart
-* Checkout Page
-* Order History
-* Wishlist
-* Admin Dashboard
+
+
 
 ---
 
